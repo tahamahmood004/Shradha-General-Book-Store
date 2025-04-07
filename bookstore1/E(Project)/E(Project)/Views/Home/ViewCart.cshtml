@@ -1,0 +1,148 @@
+﻿
+<!doctype html>
+<html lang="zxx">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>aranoz</title>
+
+</head>
+
+<body>
+    <!--::header part start::-->
+    @Html.Partial("Navbar")
+    <!-- Header part end-->
+    <!-- breadcrumb start-->
+    <section class="breadcrumb breadcrumb_bg">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <div class="breadcrumb_iner">
+                        <div class="breadcrumb_iner_item">
+                            <h2>Shopping Cart</h2>
+                            <p>Home <span>-</span>Cart</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- breadcrumb start-->
+
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">ID</th>
+                <th scope="col">Name</th>
+                <th scope="col">Image</th>
+                <th scope="col">Price</th>
+                <th scope="col">Quantity</th>
+                <th scope="col">Total Amount</th>
+                <th scope="col">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr data-id="@item.Id">
+                    <td>@item.Id</td>
+                    <td>@item.Book_Name</td>
+                    <td><img src="~/images/@item.Image" style="height:100px; width:100px"></td>
+                    <td>@item.Price.ToString("F2")</td>
+                    <td>
+                        <button class="btn btn-secondary decrease-btn" onclick="changeQuantity('@item.Id', -1)" @(item.Quantity == 1 ? "disabled" : "")>-</button>
+                        <span class="quantity">@item.Quantity</span>
+                        <button class="btn btn-secondary" onclick="changeQuantity('@item.Id', 1)">+</button>
+                    </td>
+                    <td class="total-amount">@(@item.Price * item.Quantity)</td>
+                    <td>
+                        <button class="btn btn-danger" onclick="deleteItem('@item.Id')">Delete</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <a asp-controller="Home" asp-action="ProductCheckout" class="btn_3">Product Checkout</a>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+        function redirectToCheckout() {
+            const cartItems = [];
+
+            // Gather all cart data
+            $('tr[data-id]').each(function () {
+                const row = $(this);
+                const productId = row.data('id');
+                const productName = row.find('td:nth-child(2)').text();
+                const price = parseFloat(row.find('td:nth-child(4)').text());
+                const quantity = parseInt(row.find('.quantity').text());
+                const totalAmount = parseFloat(row.find('.total-amount').text());
+                const imageUrl = row.find('td:nth-child(3) img').attr('src');
+
+                cartItems.push({
+                    id: productId,
+                    name: productName,
+                    price: price,
+                    quantity: quantity,
+                    totalAmount: totalAmount,
+                    image: imageUrl
+                });
+            });
+
+            // Store cart items in local storage for the checkout page
+            localStorage.setItem('cartItems', JSON.stringify(cartItems));
+
+            // Redirect to the checkout page
+            window.location.href = '@Url.Action("Checkout", "Home")';
+        }
+
+        function deleteItem(productId) {
+            $.ajax({
+                url: '@Url.Action("DeleteCartItem", "Home")',
+                type: 'POST',
+                data: { productId: productId },
+                success: function () {
+                    $(`tr[data-id='${productId}']`).remove();
+                    alert("Item removed from cart.");
+                },
+                error: function (xhr, status, error) {
+                    console.error(error);
+                    alert("An error occurred while deleting the item.");
+                }
+            });
+        }
+
+        function changeQuantity(productId, change) {
+            $.ajax({
+                url: '@Url.Action("UpdateCartQuantity", "Home")',
+                type: 'POST',
+                data: { productId: productId, change: change },
+                success: function (data) {
+                    const row = $(`tr[data-id='${productId}']`);
+                    const quantityElement = row.find('.quantity');
+                    const totalElement = row.find('.total-amount');
+                    const decreaseButton = row.find('.decrease-btn');
+
+                    let newQuantity = parseInt(quantityElement.text()) + change;
+                    if (newQuantity < 0) newQuantity = 0; // Prevent negative quantity
+                    quantityElement.text(newQuantity);
+
+                    const price = parseFloat(row.find('td:nth-child(4)').text());
+                    totalElement.text((price * newQuantity).toFixed(2));
+
+                    decreaseButton.prop('disabled', newQuantity <= 1);
+                },
+                error: function (xhr, status, error) {
+                    console.error(error);
+                    alert("An error occurred while updating the quantity.");
+                }
+            });
+        }
+    </script>
+
+</body>
+</html>

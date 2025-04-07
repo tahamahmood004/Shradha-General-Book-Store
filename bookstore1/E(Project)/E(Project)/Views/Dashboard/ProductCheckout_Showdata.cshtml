@@ -1,0 +1,41 @@
+﻿@model IEnumerable<E_Project_.Models.ProductCheckout>
+
+@{
+    Layout = null;
+    Layout = "~/Views/Shared/Dashboardlink.cshtml";
+}
+@Html.Partial("Dashboardnavbar")
+<table class="table table-striped table-hover shadow-lg p-3 mb-5 ">
+    <thead>
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">First_name  </th>
+            <th scope="col">Last_name</th>
+            <th scope="col"> Phone</th>
+            <th scope="col">Email</th>
+            <th scope="col">Address</th>
+            <th scope="col">City </th>
+            <th scope="col"> Postal_code</th>
+            <th scope="col"> Order_note</th>
+            <th scope="col">Delete</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <th scope="row">@item.Id</th>
+                <td>@item.First_name </td>
+                <td>@item.Last_name</td>
+                <td>@item. Phone</td>
+                <td>@item.Email</td>
+                <td>@item.Address</td>
+                <td>@item.City</td>
+                <td>@item.Postal_code</td>
+                <td>@item.Order_notee</td>
+                <td><a type="button" class="btn btn-danger" asp-action="ProductCheckout_delete" asp-route-id="@item.Id">Delete</a></td>
+            </tr>
+        }
+
+    </tbody>
+</table>

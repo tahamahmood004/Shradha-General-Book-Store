@@ -1,0 +1,77 @@
+﻿@{
+    Layout = null;
+    Layout = "~/Views/Shared/Dashboardlink.cshtml";
+}
+
+@model Product
+
+@Html.Partial("Dashboardnavbar")
+
+@if (TempData.ContainsKey("success"))
+{
+    <p class="text-success">
+        @TempData["success"]
+    </p>
+}
+
+
+<style>
+    .form-group label {
+        font-size: large;
+        font-weight: bold;
+    }
+</style>
+
+<div class="container-fluid mx-auto w-75 justify-content-center align-items-center"> 
+    <h2 class="text-center border-bottom border-dark">Product Form</h2>
+
+    <form method="post" enctype="multipart/form-data">
+        <div class="form-group mx-auto fs-5 fw-bold">
+            <div class="form-group  justify-content-center align-items-center mt-4">
+                <label for="image">Image</label>
+                <input type="file" class="form-control shadow col-sm-12" id="image" asp-for="Image">
+                <span class="text-danger" asp-validation-for="Image"></span>
+            </div>
+
+            <div class="form-group justify-content-center align-items-center mx-auto mt-4">
+                <label for="Writter_Name">Writter Name</label>
+                <input type="text" class="form-control shadow col-sm-12" id="Writter_Name" asp-for="Writter_Name">
+                <span class="text-danger" asp-validation-for="Writter_Name"></span>
+            </div>
+
+            <div class="form-group justify-content-center align-items-center mx-auto mt-4">
+                <label for="Book_Name">Book Name</label>
+                <input type="text" class="form-control shadow col-sm-12" id="Book_Name" asp-for="Book_Name" >
+                <span class="text-danger" asp-validation-for="Book_Name"></span>
+            </div>
+
+            <div class="form-group justify-content-center align-items-center mx-auto mt-4">
+                <label for="Price">Stock</label>
+                <input type="text" class="form-control col-sm-12 shadow" id="Price" asp-for="Stock" placeholder="">
+                <span class="text-danger" asp-validation-for="Stock"></span>
+            </div>
+
+            <div class="form-group justify-content-center align-items-center mx-auto mt-4">
+                <label for="Price">Price</label>
+                <input type="text" class="form-control col-sm-12 shadow" id="Price" asp-for="Price" placeholder="">
+                <span class="text-danger" asp-validation-for="Price"></span>
+            </div>
+
+            <div class="form-group justify-content-center align-items-center mx-auto mt-4">
+                <label for="categoryId">Category</label>
+                <select id="categoryId" name="CategoryId" class="form-control shadow col-sm-12">
+                    <option value="">Select a Category</option>
+                    @foreach (var category in ViewBag.Categories)
+                    {
+                        <option value="@category.Value">@category.Text</option>
+                    }
+                </select>
+                <span class="text-danger" asp-validation-for="Id"></span>
+            </div>
+
+            <center>
+                <button type="submit" class="btn btn-primary justify-content-center align-items-center mx-auto">Submit</button>
+            </center>
+        </div>
+    </form>
+</div>

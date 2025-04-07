@@ -1,0 +1,35 @@
+﻿@model IEnumerable<E_Project_.Models.Category>
+
+@{
+    Layout = null;
+    Layout = "~/Views/Shared/Dashboardlink.cshtml";
+}
+@Html.Partial("Dashboardnavbar")
+
+<a type="button" class="btn btn-primary" asp-action="Category">Add Category</a>
+
+<table class="table table-striped table-hover shadow-lg p-3 mb-5 mt-4">
+    <thead>
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">Name</th>
+            <th scope="col">Image</th>
+            <th scope="col">Edit</th>
+            <th scope="col">Delete</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td scope="row">@item.Id</td>
+                <td>@item.Name</td>
+                <td><img src="~/images/@item.Image" style="height:100px; width:100px"></td>
+                <td><a type="button" class="btn btn-primary" asp-action="Category_Edit" asp-route-id="@item.Id">Edit</a></td>
+                <td><a type="button" class="btn btn-danger" asp-action="Category_delete" asp-route-id="@item.Id">Delete</a></td>
+            </tr>
+        }
+
+    </tbody>
+</table>

@@ -1,0 +1,259 @@
+﻿<!doctype html>
+<html lang="zxx">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>aranaz</title>
+
+</head>
+
+<body>
+    <!--::header part start::-->
+   @Html.Partial("Navbar")
+    <!-- Header part end-->
+    <!--================Home Banner Area =================-->
+    <!-- breadcrumb start-->
+    <section class="breadcrumb breadcrumb_bg">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <div class="breadcrumb_iner">
+                        <div class="breadcrumb_iner_item">
+                            <h2>Order Confirmation</h2>
+                            <p>Home <span>-</span> Order Confirmation</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- breadcrumb start-->
+    <!--================ confirmation part start =================-->
+    <section class="confirmation_part padding_top">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="confirmation_tittle">
+                        <span>Thank you. Your order has been received.</span>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-lx-4">
+                    <div class="single_confirmation_details">
+                        <h4>order info</h4>
+                        <ul>
+                            <li>
+                                <p>order number</p><span>: 60235</span>
+                            </li>
+                            <li>
+                                <p>data</p><span>: Oct 03, 2017</span>
+                            </li>
+                            <li>
+                                <p>total</p><span>: USD 2210</span>
+                            </li>
+                            <li>
+                                <p>mayment methord</p><span>: Check payments</span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-lx-4">
+                    <div class="single_confirmation_details">
+                        <h4>Billing Address</h4>
+                        <ul>
+                            <li>
+                                <p>Street</p><span>: 56/8</span>
+                            </li>
+                            <li>
+                                <p>city</p><span>: Los Angeles</span>
+                            </li>
+                            <li>
+                                <p>country</p><span>: United States</span>
+                            </li>
+                            <li>
+                                <p>postcode</p><span>: 36952</span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-lx-4">
+                    <div class="single_confirmation_details">
+                        <h4>shipping Address</h4>
+                        <ul>
+                            <li>
+                                <p>Street</p><span>: 56/8</span>
+                            </li>
+                            <li>
+                                <p>city</p><span>: Los Angeles</span>
+                            </li>
+                            <li>
+                                <p>country</p><span>: United States</span>
+                            </li>
+                            <li>
+                                <p>postcode</p><span>: 36952</span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="order_details_iner">
+                        <h3>Order Details</h3>
+                        <table class="table table-borderless">
+                            <thead>
+                                <tr>
+                                    <th scope="col" colspan="2">Product</th>
+                                    <th scope="col">Quantity</th>
+                                    <th scope="col">Total</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <th colspan="2"><span>Pixelstore fresh Blackberry</span></th>
+                                    <th>x02</th>
+                                    <th> <span>$720.00</span></th>
+                                </tr>
+                                <tr>
+                                    <th colspan="2"><span>Pixelstore fresh Blackberry</span></th>
+                                    <th>x02</th>
+                                    <th> <span>$720.00</span></th>
+                                </tr>
+                                <tr>
+                                    <th colspan="2"><span>Pixelstore fresh Blackberry</span></th>
+                                    <th>x02</th>
+                                    <th> <span>$720.00</span></th>
+                                </tr>
+                                <tr>
+                                    <th colspan="3">Subtotal</th>
+                                    <th> <span>$2160.00</span></th>
+                                </tr>
+                                <tr>
+                                    <th colspan="3">shipping</th>
+                                    <th><span>flat rate: $50.00</span></th>
+                                </tr>
+                            </tbody>
+                            <tfoot>
+                                <tr>
+                                    <th scope="col" colspan="3">Quantity</th>
+                                    <th scope="col">Total</th>
+                                </tr>
+                            </tfoot>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--================ confirmation part end =================-->
+    <!--::footer_part start::-->
+    <footer class="footer_part" style="background-color:#229799">
+        <div class="container">
+            <div class="row justify-content-around">
+                <div class="col-sm-6 col-lg-2">
+                    <div class="single_footer_part">
+                        <h3 style="color:burlywood;">Contents</h3>
+                        <ul class="list-unstyled" style="color:azure;">
+                            <li><a asp-action="Index" asp-controller="Home">Home</a></li>
+                            <li><a asp-action="About" asp-controller="Home">About</a></li>
+                            <li><a asp-action="Contact" asp-controller="Home">Contact</a></li>
+
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-lg-2">
+                    <div class="single_footer_part">
+                        <h3 style="color:burlywood;">Categories</h3>
+                        <ul class="list-unstyled" style="color:azure;">
+                            <li><a asp-action="Novel" asp-controller="Home">Novels</a></li>
+                            <li><a asp-action="Books" asp-controller="Home">Books</a></li>
+                            <li><a asp-action="Stationary" asp-controller="Home">Stationary</a></li>
+                            <li><a asp-action="Magzines" asp-controller="Home">Magzines</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-lg-2">
+                    <div class="single_footer_part">
+                        <h3 style="color:burlywood;">Support</h3>
+                        <ul class="list-unstyled">
+                            <li><a asp-action="Index" asp-controller="Home">FAQ's</a></li>
+                            <li><a asp-action="Index" asp-controller="Home">Track Order</a></li>
+
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-lg-2">
+                    <div class="single_footer_part">
+                        <h3 style="color:burlywood;">Sort By</h3>
+                        <ul class="list-unstyled">
+                            <li><a asp-action="Index" asp-controller="Home">New Arrivals</a></li>
+                            <li><a asp-action="Index" asp-controller="Home">Best Sellers</a></li>
+                            <li><a asp-action="Index" asp-controller="Home">sale</a></li>
+
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-lg-4">
+                    <div class="single_footer_part">
+                        <h3 style="color:burlywood;">Newsletter</h3>
+                        <p style="color:azure;">
+                            Heaven fruitful doesn't over lesser in days. Appear creeping
+                        </p>
+                        <div id="mc_embed_signup">
+                            <form target="_blank"
+                                  action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01"
+                                  method="get" class="subscribe_form relative mail_part">
+                                <input type="email" name="email" id="newsletter-form-email" placeholder="Email Address"
+                                       class="placeholder hide-on-focus" onfocus="this.placeholder = ''"
+                                       onblur="this.placeholder = ' Email Address '">
+                                <button type="submit" name="submit" id="newsletter-submit"
+                                        class="email_icon newsletter-submit button-contactForm">
+                                    subscribe
+                                </button>
+                                <div class="mt-10 info"></div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="copyright_part">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8">
+                        <div class="copyright_text">
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="footer_icon social_icon">
+                            <ul class="list-unstyled">
+                                <li><a href="https://www.facebook.com/login/" class="single_social_icon"><i class="bi bi-facebook"></i></a></li>
+                                <li><a href="https://www.instagram.com/" class="single_social_icon"><i class="bi bi-instagraqm"></i></a></li>
+                                <li><a href="https://www.youtube.com/" class="single_social_icon"><i class="bi bi-youtube"></i></a></li>
+                                <li><a href="https://www.whatsapp.com/" class="single_social_icon"><i class="bi bi-whatsapp"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!--::footer_part end::-->
+    <!-- jquery plugins here-->
+    <!-- jquery -->
+
+</body>
+
+</html>
+
+<!--</html>
+
+</html>
+
+</html>
+
+</html>
+
+</html>-->

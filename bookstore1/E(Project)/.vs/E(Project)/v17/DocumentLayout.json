@@ -1,0 +1,304 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Farha\\Downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\E(Project)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFB7D93-1217-4242-8278-5EF6A30128BB}|E(Project)\\E(Project).csproj|c:\\users\\farha\\downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\e(project)\\e(project)\\views\\dashboard\\product_edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDFB7D93-1217-4242-8278-5EF6A30128BB}|E(Project)\\E(Project).csproj|solutionrelative:e(project)\\views\\dashboard\\product_edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFB7D93-1217-4242-8278-5EF6A30128BB}|E(Project)\\E(Project).csproj|c:\\users\\farha\\downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\e(project)\\e(project)\\views\\dashboard\\product_data.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDFB7D93-1217-4242-8278-5EF6A30128BB}|E(Project)\\E(Project).csproj|solutionrelative:e(project)\\views\\dashboard\\product_data.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFB7D93-1217-4242-8278-5EF6A30128BB}|E(Project)\\E(Project).csproj|c:\\users\\farha\\downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\e(project)\\e(project)\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDFB7D93-1217-4242-8278-5EF6A30128BB}|E(Project)\\E(Project).csproj|solutionrelative:e(project)\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFB7D93-1217-4242-8278-5EF6A30128BB}|E(Project)\\E(Project).csproj|c:\\users\\farha\\downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\e(project)\\e(project)\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDFB7D93-1217-4242-8278-5EF6A30128BB}|E(Project)\\E(Project).csproj|solutionrelative:e(project)\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFB7D93-1217-4242-8278-5EF6A30128BB}|E(Project)\\E(Project).csproj|c:\\users\\farha\\downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\e(project)\\e(project)\\models\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDFB7D93-1217-4242-8278-5EF6A30128BB}|E(Project)\\E(Project).csproj|solutionrelative:e(project)\\models\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFB7D93-1217-4242-8278-5EF6A30128BB}|E(Project)\\E(Project).csproj|c:\\users\\farha\\downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\e(project)\\e(project)\\views\\home\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDFB7D93-1217-4242-8278-5EF6A30128BB}|E(Project)\\E(Project).csproj|solutionrelative:e(project)\\views\\home\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFB7D93-1217-4242-8278-5EF6A30128BB}|E(Project)\\E(Project).csproj|c:\\users\\farha\\downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\e(project)\\e(project)\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDFB7D93-1217-4242-8278-5EF6A30128BB}|E(Project)\\E(Project).csproj|solutionrelative:e(project)\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFB7D93-1217-4242-8278-5EF6A30128BB}|E(Project)\\E(Project).csproj|c:\\users\\farha\\downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\e(project)\\e(project)\\views\\dashboard\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDFB7D93-1217-4242-8278-5EF6A30128BB}|E(Project)\\E(Project).csproj|solutionrelative:e(project)\\views\\dashboard\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFB7D93-1217-4242-8278-5EF6A30128BB}|E(Project)\\E(Project).csproj|c:\\users\\farha\\downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\e(project)\\e(project)\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDFB7D93-1217-4242-8278-5EF6A30128BB}|E(Project)\\E(Project).csproj|solutionrelative:e(project)\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFB7D93-1217-4242-8278-5EF6A30128BB}|E(Project)\\E(Project).csproj|c:\\users\\farha\\downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\e(project)\\e(project)\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FDFB7D93-1217-4242-8278-5EF6A30128BB}|E(Project)\\E(Project).csproj|solutionrelative:e(project)\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFB7D93-1217-4242-8278-5EF6A30128BB}|E(Project)\\E(Project).csproj|c:\\users\\farha\\downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\e(project)\\e(project)\\views\\home\\shopcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDFB7D93-1217-4242-8278-5EF6A30128BB}|E(Project)\\E(Project).csproj|solutionrelative:e(project)\\views\\home\\shopcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFB7D93-1217-4242-8278-5EF6A30128BB}|E(Project)\\E(Project).csproj|c:\\users\\farha\\downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\e(project)\\e(project)\\views\\home\\feedback.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDFB7D93-1217-4242-8278-5EF6A30128BB}|E(Project)\\E(Project).csproj|solutionrelative:e(project)\\views\\home\\feedback.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFB7D93-1217-4242-8278-5EF6A30128BB}|E(Project)\\E(Project).csproj|c:\\users\\farha\\downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\e(project)\\e(project)\\wwwroot\\css\\cards.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FDFB7D93-1217-4242-8278-5EF6A30128BB}|E(Project)\\E(Project).csproj|solutionrelative:e(project)\\wwwroot\\css\\cards.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFB7D93-1217-4242-8278-5EF6A30128BB}|E(Project)\\E(Project).csproj|c:\\users\\farha\\downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\e(project)\\e(project)\\views\\home\\novel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDFB7D93-1217-4242-8278-5EF6A30128BB}|E(Project)\\E(Project).csproj|solutionrelative:e(project)\\views\\home\\novel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFB7D93-1217-4242-8278-5EF6A30128BB}|E(Project)\\E(Project).csproj|c:\\users\\farha\\downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\e(project)\\e(project)\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDFB7D93-1217-4242-8278-5EF6A30128BB}|E(Project)\\E(Project).csproj|solutionrelative:e(project)\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFB7D93-1217-4242-8278-5EF6A30128BB}|E(Project)\\E(Project).csproj|c:\\users\\farha\\downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\e(project)\\e(project)\\views\\home\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDFB7D93-1217-4242-8278-5EF6A30128BB}|E(Project)\\E(Project).csproj|solutionrelative:e(project)\\views\\home\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFB7D93-1217-4242-8278-5EF6A30128BB}|E(Project)\\E(Project).csproj|c:\\users\\farha\\downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\e(project)\\e(project)\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDFB7D93-1217-4242-8278-5EF6A30128BB}|E(Project)\\E(Project).csproj|solutionrelative:e(project)\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product_Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Farha\\Downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\E(Project)\\E(Project)\\Views\\Dashboard\\Product_Edit.cshtml",
+              "RelativeDocumentMoniker": "E(Project)\\Views\\Dashboard\\Product_Edit.cshtml",
+              "ToolTip": "C:\\Users\\Farha\\Downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\E(Project)\\E(Project)\\Views\\Dashboard\\Product_Edit.cshtml",
+              "RelativeToolTip": "E(Project)\\Views\\Dashboard\\Product_Edit.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T20:05:48.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\Farha\\Downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\E(Project)\\E(Project)\\Models\\Connection.cs",
+              "RelativeDocumentMoniker": "E(Project)\\Models\\Connection.cs",
+              "ToolTip": "C:\\Users\\Farha\\Downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\E(Project)\\E(Project)\\Models\\Connection.cs",
+              "RelativeToolTip": "E(Project)\\Models\\Connection.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T20:02:36.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Farha\\Downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\E(Project)\\E(Project)\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "E(Project)\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\Farha\\Downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\E(Project)\\E(Project)\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "E(Project)\\wwwroot\\css\\style.css",
+              "ViewState": "AQIAAEILAAAAAAAAAAAiwCsLAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-17T10:00:48.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Feedback.cshtml",
+              "DocumentMoniker": "C:\\Users\\Farha\\Downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\E(Project)\\E(Project)\\Views\\Home\\Feedback.cshtml",
+              "RelativeDocumentMoniker": "E(Project)\\Views\\Home\\Feedback.cshtml",
+              "ToolTip": "C:\\Users\\Farha\\Downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\E(Project)\\E(Project)\\Views\\Home\\Feedback.cshtml",
+              "RelativeToolTip": "E(Project)\\Views\\Home\\Feedback.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T09:20:35.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Farha\\Downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\E(Project)\\E(Project)\\Views\\Home\\ProductDetails.cshtml",
+              "RelativeDocumentMoniker": "E(Project)\\Views\\Home\\ProductDetails.cshtml",
+              "ToolTip": "C:\\Users\\Farha\\Downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\E(Project)\\E(Project)\\Views\\Home\\ProductDetails.cshtml",
+              "RelativeToolTip": "E(Project)\\Views\\Home\\ProductDetails.cshtml",
+              "ViewState": "AQIAADcAAAAAAAAAAAAuwEEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T19:44:20.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShopCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\Farha\\Downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\E(Project)\\E(Project)\\Views\\Home\\ShopCategory.cshtml",
+              "RelativeDocumentMoniker": "E(Project)\\Views\\Home\\ShopCategory.cshtml",
+              "ToolTip": "C:\\Users\\Farha\\Downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\E(Project)\\E(Project)\\Views\\Home\\ShopCategory.cshtml",
+              "RelativeToolTip": "E(Project)\\Views\\Home\\ShopCategory.cshtml",
+              "ViewState": "AQIAANMAAAAAAAAAAAAAANwAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T19:31:49.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "cards.css",
+              "DocumentMoniker": "C:\\Users\\Farha\\Downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\E(Project)\\E(Project)\\wwwroot\\css\\cards.css",
+              "RelativeDocumentMoniker": "E(Project)\\wwwroot\\css\\cards.css",
+              "ToolTip": "C:\\Users\\Farha\\Downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\E(Project)\\E(Project)\\wwwroot\\css\\cards.css",
+              "RelativeToolTip": "E(Project)\\wwwroot\\css\\cards.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-15T11:00:41.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cshtml",
+              "DocumentMoniker": "C:\\Users\\Farha\\Downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\E(Project)\\E(Project)\\Views\\Dashboard\\Product.cshtml",
+              "RelativeDocumentMoniker": "E(Project)\\Views\\Dashboard\\Product.cshtml",
+              "ToolTip": "C:\\Users\\Farha\\Downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\E(Project)\\E(Project)\\Views\\Dashboard\\Product.cshtml",
+              "RelativeToolTip": "E(Project)\\Views\\Dashboard\\Product.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T10:17:12.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Farha\\Downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\E(Project)\\E(Project)\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "E(Project)\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Farha\\Downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\E(Project)\\E(Project)\\Models\\Product.cs",
+              "RelativeToolTip": "E(Project)\\Models\\Product.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAswCIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:14:52.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Farha\\Downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\E(Project)\\E(Project)\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "E(Project)\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Farha\\Downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\E(Project)\\E(Project)\\Models\\Category.cs",
+              "RelativeToolTip": "E(Project)\\Models\\Category.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAUwAsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:00:09.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Farha\\Downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\E(Project)\\E(Project)\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "E(Project)\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Farha\\Downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\E(Project)\\E(Project)\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "E(Project)\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAMYAAAAAAAAAAAAAAMsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T19:43:29.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product_data.cshtml",
+              "DocumentMoniker": "C:\\Users\\Farha\\Downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\E(Project)\\E(Project)\\Views\\Dashboard\\Product_data.cshtml",
+              "RelativeDocumentMoniker": "E(Project)\\Views\\Dashboard\\Product_data.cshtml",
+              "ToolTip": "C:\\Users\\Farha\\Downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\E(Project)\\E(Project)\\Views\\Dashboard\\Product_data.cshtml",
+              "RelativeToolTip": "E(Project)\\Views\\Dashboard\\Product_data.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T13:15:17.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Farha\\Downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\E(Project)\\E(Project)\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "E(Project)\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Farha\\Downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\E(Project)\\E(Project)\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "E(Project)\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAOMAAAAAAAAAAAAqwPAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:15:17.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Farha\\Downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\E(Project)\\E(Project)\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "E(Project)\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Farha\\Downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\E(Project)\\E(Project)\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "E(Project)\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA/wOoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:15:17.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Registration.cshtml",
+              "DocumentMoniker": "C:\\Users\\Farha\\Downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\E(Project)\\E(Project)\\Views\\Home\\Registration.cshtml",
+              "RelativeDocumentMoniker": "E(Project)\\Views\\Home\\Registration.cshtml",
+              "ToolTip": "C:\\Users\\Farha\\Downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\E(Project)\\E(Project)\\Views\\Home\\Registration.cshtml",
+              "RelativeToolTip": "E(Project)\\Views\\Home\\Registration.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAE0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T13:15:17.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Farha\\Downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\E(Project)\\E(Project)\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "E(Project)\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Farha\\Downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\E(Project)\\E(Project)\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "E(Project)\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAACkAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T13:15:17.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Novel.cshtml",
+              "DocumentMoniker": "C:\\Users\\Farha\\Downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\E(Project)\\E(Project)\\Views\\Home\\Novel.cshtml",
+              "RelativeDocumentMoniker": "E(Project)\\Views\\Home\\Novel.cshtml",
+              "ToolTip": "C:\\Users\\Farha\\Downloads\\books projects (1)\\books projects (1)\\books projects\\books projects\\E(Project)\\E(Project)\\Views\\Home\\Novel.cshtml",
+              "RelativeToolTip": "E(Project)\\Views\\Home\\Novel.cshtml",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAAAOgAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T13:15:17.564Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

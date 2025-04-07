@@ -1,0 +1,29 @@
+﻿@model E_Project_.Models.Feedback
+
+<form method="post" novalidate="novalidate">
+    <div class="col-md-12">
+        <div class="form-group">
+            <input type="text" class="form-control" asp-for="Name" placeholder="Your Full name" />
+        </div>
+    </div>
+    <div class="col-md-12">
+        <div class="form-group">
+            <input type="email" class="form-control" asp-for="Email" placeholder="Email Address" />
+        </div>
+    </div>
+    <div class="col-md-12">
+        <div class="form-group">
+            <input type="text" class="form-control" asp-for="Phone_number" placeholder="Phone Number" />
+        </div>
+    </div>
+    <div class="col-md-12">
+        <div class="form-group">
+            <textarea class="form-control" asp-for="Review" rows="1" placeholder="Review"></textarea>
+        </div>
+    </div>
+    <div class="col-md-12 text-right">
+        <button type="submit" value="submit" class="btn_3">
+            Submit Now
+        </button>
+    </div>
+</form> 

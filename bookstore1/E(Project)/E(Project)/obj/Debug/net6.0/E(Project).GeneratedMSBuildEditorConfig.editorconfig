@@ -1,0 +1,209 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = E_Project_
+build_property.RootNamespace = E_Project_
+build_property.ProjectDir = C:\Users\asp.APTECHNN2\Desktop\Project Final 3rd semester\Shradha General Book Stores\bookstore1\E(Project)\E(Project)\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\asp.APTECHNN2\Desktop\Project Final 3rd semester\Shradha General Book Stores\bookstore1\E(Project)\E(Project)
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/Dashboard/Category.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXENhdGVnb3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/Dashboard/Category_Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXENhdGVnb3J5X0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/Dashboard/Category_Showdata.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXENhdGVnb3J5X1Nob3dkYXRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/Dashboard/Contact_showdata.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXENvbnRhY3Rfc2hvd2RhdGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/Dashboard/Feedback.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEZlZWRiYWNrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/Dashboard/login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXGxvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/Dashboard/Product.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXFByb2R1Y3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/Dashboard/ProductCheckout_Showdata.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXFByb2R1Y3RDaGVja291dF9TaG93ZGF0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/Dashboard/Product_data.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXFByb2R1Y3RfZGF0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/Dashboard/Product_Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXFByb2R1Y3RfRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/Dashboard/Registration_showdata.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXFJlZ2lzdHJhdGlvbl9zaG93ZGF0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/Dashboard/Reply.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXFJlcGx5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/Home/About_us.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dF91cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/Home/Blog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCbG9nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/Home/Book.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCb29rLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/Home/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDaGVja291dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/Home/Confirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb25maXJtYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/Home/Contact_Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0X0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/Home/Elements.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFbGVtZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/Home/Faq.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGYXEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/Home/Feedback.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGZWVkYmFjay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/Home/Magazine.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNYWdhemluZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/Home/Novel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxOb3ZlbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/Home/Payment_method.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYXltZW50X21ldGhvZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/Home/ProductCheckout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9kdWN0Q2hlY2tvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/Home/ProductDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9kdWN0RGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/Home/Registration.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3RyYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/Home/ShopCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaG9wQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/Home/ShoppingCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaG9wcGluZ0NhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/Home/SingleBlog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaW5nbGVCbG9nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/Home/Stationary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdGF0aW9uYXJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/Home/Tracking.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUcmFja2luZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/Home/ViewCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWaWV3Q2FydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/Shared/Category_Showdata.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENhdGVnb3J5X1Nob3dkYXRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/Shared/dashboardlink.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGRhc2hib2FyZGxpbmsuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/Shared/Dashboardnavbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXERhc2hib2FyZG5hdmJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/Shared/Links.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExpbmtzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/Shared/Navbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE5hdmJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp.APTECHNN2/Desktop/Project Final 3rd semester/Shradha General Book Stores/bookstore1/E(Project)/E(Project)/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ksqh5wt89r

@@ -1,0 +1,49 @@
+.card-container {
+    display: flex; /* Use Flexbox to arrange cards */
+    flex-wrap: wrap; /* Allow cards to wrap */
+    gap: 20px; /* Space between cards */
+    justify-content: space-evenly; /* Distribute space evenly */
+    align-items: center; /* Center the cards vertically */
+    height: 20vh; /* Full height for vertical centering */
+    margin: 0; /* Remove margin from the container */
+}
+
+.round-card {
+    width: 60vw; /* Adjusted width */
+    height: 60vw; /* Maintain aspect ratio */
+    max-width: 250px; /* Adjusted maximum width */
+    max-height: 250px; /* Adjusted maximum height */
+    background-color: #fff;
+    border-radius: 50%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden; /* Hide overflow content */
+    position: relative; /* For positioning the content */
+}
+
+.card-content {
+    transition: transform 0.3s ease; /* Transition for the content */
+}
+
+.round-card:hover .card-content {
+    transform: scale(1.1); /* Zoom in content on hover */
+}
+
+h2, p {
+    margin: 0; /* Remove default margins */
+    text-align: center; /* Center text */
+}
+
+@media only screen and (max-width: 1024px) {
+    .card-container {
+        height: 100%;
+      }
+    }
+
+@media only screen and (max-width: 767px) {
+    .card-container {
+        height: 100%;
+      }
+    }
